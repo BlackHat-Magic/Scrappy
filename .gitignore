@@ -1,3 +1,5 @@
 images/*
 Gelbooru/env
 Hub-Server/env
+Hub-Server/session.key
+Hub-Server/instance/*
